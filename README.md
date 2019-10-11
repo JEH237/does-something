@@ -19,7 +19,4 @@ to end the program, input anything that isn't a number value.
 You can do pull requests if that is what you really desire. We are open to any new additions to the Jerrys program, just do a pull request!
 
 ## License Reason
-For our program we are using the Educational Community License (ESL) since that type of license is a free and open source one that is based 
-off the Apache license. Also, this license is specific when the academic achievements is the main goal in mind which is what our program is 
-going to be generally used in. Other open source license would have worked fine with our, but our end goal is just giving people a program 
-they can use for mainly educational purposes.  
+For our program, we are using the Educational Community License (ESL) since that type of license is a free and open source one that is based off the Apache license. Also, this license is specific when the academic achievements is the main goal in mind which is what our program is going to be generally used in. Other open source license would have worked fine with our, but our end goal is just giving people a program they can use for mainly educational purposes.  
